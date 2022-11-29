@@ -1,143 +1,163 @@
 #EXTM3U
-# Collected And Uploaded By (https://github.com/sabbiriptv)
+# Collected And Uploaded By (https://www.github.com/sabbiriptv)
 
-#EXTINF:-1,24B HD
-http://103.157.249.125:201/play/a06b/index.m3u8
-#EXTINF:-1,A SportsHD
-http://103.157.249.125:201/play/a07c/index.m3u8
-#EXTINF:-1,AL-QURAN
-http://103.157.249.125:201/play/a03y/index.m3u8
-#EXTINF:-1,ARY Musik
-http://103.157.249.125:201/play/a01q/index.m3u8
-#EXTINF:-1,ARY News
-http://103.157.249.125:201/play/a01r/index.m3u8
-#EXTINF:-1,ARY QTV
-http://103.157.249.125:201/play/a01p/index.m3u8
-#EXTINF:-1,ARY Zindagi
-http://103.157.249.125:201/play/a01l/index.m3u8
-#EXTINF:-1,ARYDigitalAsia HD
-http://103.157.249.125:201/play/a04j/index.m3u8
-#EXTINF:-1,Al Jazeera English
-http://103.157.249.125:201/play/a03j/index.m3u8
-#EXTINF:-1,Alief TV
-http://103.157.249.125:201/play/a08z/index.m3u8
-#EXTINF:-1,BBC NEWS 
-http://103.157.249.125:201/play/a044/index.m3u8
-#EXTINF:-1,BOL Entertainment
-http://103.157.249.125:201/play/a01h/index.m3u8
-#EXTINF:-1,BOL News 
-http://103.157.249.125:201/play/a01g/index.m3u8
-#EXTINF:-1,CAPITAL TV
-http://103.157.249.125:201/play/a05v/index.m3u8
-#EXTINF:-1,CGTN
-http://103.157.249.125:201/play/a02q/index.m3u8
-#EXTINF:-1,CNAI HD 
-http://103.157.249.125:201/play/a01j/index.m3u8
-#EXTINF:-1,CNN NEWS ( Encoder )
-http://103.157.249.125:201/play/a043/index.m3u8
-#EXTINF:-1,Cartoon Network ( pak )
-http://103.157.249.125:201/play/a042/index.m3u8
-#EXTINF:-1,Fashion TV
-http://103.157.249.125:201/play/a01f/index.m3u8
-#EXTINF:-1,Fashion TV Europe
-http://103.157.249.125:201/play/a01e/index.m3u8
-#EXTINF:-1,Filmax 
-http://103.157.249.125:201/play/a04m/index.m3u8
-#EXTINF:-1,Filmazia
-http://103.157.249.125:201/play/a02x/index.m3u8
-#EXTINF:-1,GEM COMEDY
-http://103.157.249.125:201/play/a06g/index.m3u8
-#EXTINF:-1,GEM DRAMA HD
-http://103.157.249.125:201/play/a06d/index.m3u8
-#EXTINF:-1,GEM NATURE
-http://103.157.249.125:201/play/a06h/index.m3u8
-#EXTINF:-1,GEM SERIES HD
-http://103.157.249.125:201/play/a06e/index.m3u8
-#EXTINF:-1,GEM TV HD
-http://103.157.249.125:201/play/a06c/index.m3u8
-#EXTINF:-1,Geo Entertainment
-http://103.157.249.125:201/play/a020/index.m3u8
-#EXTINF:-1,Geo Kahani
-http://103.157.249.125:201/play/a021/index.m3u8
-#EXTINF:-1,Geo News
-http://103.157.249.125:201/play/a06n/index.m3u8
-#EXTINF:-1,Geo Super
-http://103.157.249.125:201/play/a022/index.m3u8
-#EXTINF:-1,Geo Tez
-http://103.157.249.125:201/play/a06o/index.m3u8
-#EXTINF:-1,HUM PASHTO
-http://103.157.249.125:201/play/a095/index.m3u8
-#EXTINF:-1,HUM SITARAY
-http://103.157.249.125:201/play/a093/index.m3u8
-#EXTINF:-1,Hum News HD 
-http://103.157.249.125:201/play/a092/index.m3u8
-#EXTINF:-1,ISAAC TV
-http://103.157.249.125:201/play/a07q/index.m3u8
-#EXTINF:-1,Insight TV
-http://103.157.249.125:201/play/a096/index.m3u8
-#EXTINF:-1,KABE(CANLI) AL QURAN
-http://103.157.249.125:201/play/a07l/index.m3u8
-#EXTINF:-1,KSA Sports 1 HD
-http://103.157.249.125:201/play/a063/index.m3u8
-#EXTINF:-1,KSA Sports 2 HD
-http://103.157.249.125:201/play/a064/index.m3u8
-#EXTINF:-1,KSA Sports 3
-http://103.157.249.125:201/play/a065/index.m3u8
-#EXTINF:-1,KSA Sports 4
-http://103.157.249.125:201/play/a066/index.m3u8
-#EXTINF:-1,Kidzone Pakistan
-http://103.157.249.125:201/play/a07i/index.m3u8
-#EXTINF:-1,Kohenoor
-http://103.157.249.125:201/play/a090/index.m3u8
-#EXTINF:-1,LTN Family
-http://103.157.249.125:201/play/a02v/index.m3u8
-#EXTINF:-1,LotusTV
-http://103.157.249.125:201/play/a01d/index.m3u8
-#EXTINF:-1,MASALA TV
-http://103.157.249.125:201/play/a094/index.m3u8
-#EXTINF:-1,MBC Action
-http://103.157.249.125:201/play/a02l/index.m3u8
-#EXTINF:-1,MBC Bollywood
-http://103.157.249.125:201/play/a061/index.m3u8
-#EXTINF:-1,MBC Drama
-http://103.157.249.125:201/play/a02j/index.m3u8
-#EXTINF:-1,MBC Max
-http://103.157.249.125:201/play/a02m/index.m3u8
-#EXTINF:-1,MBC1
-http://103.157.249.125:201/play/a02h/index.m3u8
-#EXTINF:-1,MBC2
-http://103.157.249.125:201/play/a02k/index.m3u8
-#EXTINF:-1,MBC3
-http://103.157.249.125:201/play/a02n/index.m3u8
-#EXTINF:-1,MBC4
-http://103.157.249.125:201/play/a02i/index.m3u8
-#EXTINF:-1,MIFA + HD
-http://103.157.249.125:201/play/a06i/index.m3u8
-#EXTINF:-1,MIFA MUSIC HD
-http://103.157.249.125:201/play/a06f/index.m3u8
-#EXTINF:-1,Nick
-http://103.157.249.125:201/play/a038/index.m3u8
-#EXTINF:-1,ONYX HD
-http://103.157.249.125:201/play/a068/index.m3u8
-#EXTINF:-1,PC 
-http://103.157.249.125:201/play/a04i/index.m3u8
-#EXTINF:-1,POP Kids HD
-http://103.157.249.125:201/play/a07j/index.m3u8
-#EXTINF:-1,Planet Fun
-http://103.157.249.125:201/play/a07h/index.m3u8
-#EXTINF:-1,RIVER HD
-http://103.157.249.125:201/play/a06a/index.m3u8
-#EXTINF:-1,RUBIX HD
-http://103.157.249.125:201/play/a069/index.m3u8
-#EXTINF:-1,SAB TV
-http://103.157.249.125:201/play/a039/index.m3u8
-#EXTINF:-1,SAUDI SUNNAH
-http://103.157.249.125:201/play/a07m/index.m3u8
-#EXTINF:-1,SAUDI TV
-http://103.157.249.125:201/play/a060/index.m3u8
-#EXTINF:-1,SPACETOON  TV
-http://103.157.249.125:201/play/a08c/index.m3u8
-#EXTINF:-1,Ten Sports 
-http://103.157.249.125:201/play/a041/index.m3u8
-#EXTINF:-1,Wanasah
-http://103.157.249.125:201/play/a062/index.m3u8
+#EXTINF:-1,21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:-1,23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:-1,25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:-1,27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:-1,29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:-1,30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:-1,31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1,208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:-1,1
+http://190.61.102.67:31589/play/a08o/index.m3u8
+#EXTINF:-1,101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1,102 CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1,103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1,105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1,106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1,107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1,111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1,114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1,120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1,122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1,145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:-1,151 CV Shoping
+http://190.61.102.67:31589/play/a011/index.m3u8
+#EXTINF:-1,152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:-1,154 EXE TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:-1,158 MC
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:-1,160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:-1,162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+#EXTINF:-1,206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1,210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1,222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:-1,224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1,226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1,230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:-1,234 Investigation Discovery La
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:-1,240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:-1,242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:-1,246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:-1,248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:-1,250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:-1,264 EXETV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:-1,266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:-1,268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1,276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1,280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:-1,282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:-1,285 - Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
+#EXTINF:-1,288 EXE TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:-1,304 AprendeTV2
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:-1,306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1,308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:-1,312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:-1,318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:-1,320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1,322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:-1,336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1,338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1,342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1,344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1,350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1,353 RT
+http://190.61.102.67:31589/play/a01n/index.m3u8
+#EXTINF:-1,356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1,358 TVC
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1,360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:-1,372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:-1,378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1,384 Films
+http://190.61.102.67:31589/play/a08i/index.m3u8
+#EXTINF:-1,386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:-1,388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:-1,AGROTENDENCIA
+http://190.61.102.67:31589/play/a08b/index.m3u8
+#EXTINF:-1,CTV CANAL
+http://190.61.102.67:31589/play/a08s/index.m3u8
+#EXTINF:-1,Canal 3 
+http://190.61.102.67:31589/play/a08l/index.m3u8
+#EXTINF:-1,Canal 7 
+http://190.61.102.67:31589/play/a08n/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://190.61.102.67:31589/play/a08t/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+#EXTINF:-1,Sky 2
+http://190.61.102.67:31589/play/a08q/index.m3u8
+#EXTINF:-1,TELENOVELAS
+http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:-1,TN23
+http://190.61.102.67:31589/play/a08g/index.m3u8
+#EXTINF:-1,TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1,Tlnovelas2
+http://190.61.102.67:31589/play/a08r/index.m3u8
+#EXTINF:-1,UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:-1,canal 13 Guate
+http://190.61.102.67:31589/play/a08p/index.m3u8
