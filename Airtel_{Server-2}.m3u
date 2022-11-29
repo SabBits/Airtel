@@ -1,133 +1,197 @@
 #EXTM3U
-# Collected And Uploaded By (https://github.com/sabbiriptv)
+# Collected And Uploaded By (https://www.github.com/sabbiriptv)
 
-#EXTINF:-1,&PRIVE HD
-http://175.107.244.52:4455/play/a00x/index.m3u8
-#EXTINF:-1,&flix HD
-http://175.107.244.52:4455/play/a011/index.m3u8
-#EXTINF:-1,&pictures HD 
-http://175.107.244.52:4455/play/a00s/index.m3u8
-#EXTINF:-1,9XM  - Free
-http://175.107.244.52:4455/play/a03m/index.m3u8
-#EXTINF:-1,ANIMAL PLAN HD
-http://175.107.244.52:4455/play/a00m/index.m3u8
-#EXTINF:-1,BBC WORLD 
-http://175.107.244.52:4455/play/a021/index.m3u8
-#EXTINF:-1,CARTOON- Rs 4.25
-http://175.107.244.52:4455/play/a039/index.m3u8
-#EXTINF:-1,CNN INTL 
-http://175.107.244.52:4455/play/a020/index.m3u8
-#EXTINF:-1,COMEDY CEN
-http://175.107.244.52:4455/play/a022/index.m3u8
-#EXTINF:-1,Colors HD
-http://175.107.244.52:4455/play/a010/index.m3u8
-#EXTINF:-1,DISCOVERY K-Rs 3
-http://175.107.244.52:4455/play/a03n/index.m3u8
-#EXTINF:-1,Discovery HD
-http://175.107.244.52:4455/play/a01v/index.m3u8
-#EXTINF:-1,Disney Chan-Rs 8
-http://175.107.244.52:4455/play/a03e/index.m3u8
-#EXTINF:-1,Disney Jr.-Rs 4
-http://175.107.244.52:4455/play/a03g/index.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://175.107.244.52:4455/play/a013/index.m3u8
-#EXTINF:-1,HISTORY TV18 HD
-http://175.107.244.52:4455/play/a00o/index.m3u8
-#EXTINF:-1,HUM HD
-http://175.107.244.52:4455/play/a00f/index.m3u8
-#EXTINF:-1,HUM NEWS HD
-http://175.107.244.52:4455/play/a00g/index.m3u8
-#EXTINF:-1,HUM PASHTO-1
-http://175.107.244.52:4455/play/a00j/index.m3u8
-#EXTINF:-1,HUM SITARAY
-http://175.107.244.52:4455/play/a00i/index.m3u8
-#EXTINF:-1,MASALA TV
-http://175.107.244.52:4455/play/a00h/index.m3u8
-#EXTINF:-1,MAX HD 
-http://175.107.244.52:4455/play/a01n/index.m3u8
-#EXTINF:-1,MN+ HD
-http://175.107.244.52:4455/play/a01r/index.m3u8
-#EXTINF:-1,MNX 
-http://175.107.244.52:4455/play/a023/index.m3u8
-#EXTINF:-1,MOVIES NOW
-http://175.107.244.52:4455/play/a025/index.m3u8
-#EXTINF:-1,MTV - Rs 3
-http://175.107.244.52:4455/play/a03j/index.m3u8
-#EXTINF:-1,MTV Beats- 10p
-http://175.107.244.52:4455/play/a03o/index.m3u8
-#EXTINF:-1,NAT Geo Wild HD
-http://175.107.244.52:4455/play/a01o/index.m3u8
-#EXTINF:-1,National G HD
-http://175.107.244.52:4455/play/a01u/index.m3u8
-#EXTINF:-1,Nick Jr.- Rs 1
-http://175.107.244.52:4455/play/a03l/index.m3u8
-#EXTINF:-1,PIX HD 
-http://175.107.244.52:4455/play/a00r/index.m3u8
-#EXTINF:-1,Peace TV English  HD
-http://175.107.244.52:4455/play/a06m/index.m3u8
-#EXTINF:-1,Peace TV Urdu  HD
-http://175.107.244.52:4455/play/a06n/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
-http://175.107.244.52:4455/play/a03i/index.m3u8
-#EXTINF:-1,Romedy NOW
-http://175.107.244.52:4455/play/a026/index.m3u8
-#EXTINF:-1,SET HD 
-http://175.107.244.52:4455/play/a012/index.m3u8
-#EXTINF:-1,SIX HD 
-http://175.107.244.52:4455/play/a01l/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
-http://175.107.244.52:4455/play/a03h/index.m3u8
-#EXTINF:-1,STAR BHARAT HD
-http://175.107.244.52:4455/play/a00l/index.m3u8
-#EXTINF:-1,STAR MOV HD
-http://175.107.244.52:4455/play/a01s/index.m3u8
-#EXTINF:-1,STAR WOR P HD
-http://175.107.244.52:4455/play/a01g/index.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://175.107.244.52:4455/play/a01h/index.m3u8
-#EXTINF:-1,Sony BBC EarHD
-http://175.107.244.52:4455/play/a00q/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://175.107.244.52:4455/play/a01k/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1,Star GOLD HD 
-http://175.107.244.52:4455/play/a00n/index.m3u8
-#EXTINF:-1,Star Gold SelHD
-http://175.107.244.52:4455/play/a00p/index.m3u8
-#EXTINF:-1,Star Plus HD 
-http://175.107.244.52:4455/play/a00y/index.m3u8
-#EXTINF:-1,Star S Hin 1 HD
-http://175.107.244.52:4455/play/a01m/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://175.107.244.52:4455/play/a01i/index.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://175.107.244.52:4455/play/a01j/index.m3u8
-#EXTINF:-1,Star Sports S 1 HD
-http://175.107.244.52:4455/play/a00t/index.m3u8
-#EXTINF:-1,Star Sports S 2 HD
-http://175.107.244.52:4455/play/a00u/index.m3u8
-#EXTINF:-1,StarMov S HD
-http://175.107.244.52:4455/play/a01t/index.m3u8
-#EXTINF:-1,TLC HD
-http://175.107.244.52:4455/play/a01p/index.m3u8
-#EXTINF:-1,Urdu 1
-http://175.107.244.52:4455/play/a06l/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD
-http://175.107.244.52:4455/play/a00k/index.m3u8
-#EXTINF:-1,ZEE Cafe HD 
-http://175.107.244.52:4455/play/a01q/index.m3u8
-#EXTINF:-1,ZEE TV HD
-http://175.107.244.52:4455/play/a00z/index.m3u8
-#EXTINF:-1,Zee Anmol C-10p
-http://175.107.244.52:4455/play/a03k/index.m3u8
-#EXTINF:-1,Zoom - 50p
-http://175.107.244.52:4455/play/a03p/index.m3u8
-#EXTINF:-1,colorsInfintyHD-Rs9
-http://175.107.244.52:4455/play/a06p/index.m3u8
-#EXTINF:-1,hungama tv-Rs 6
-http://175.107.244.52:4455/play/a03d/index.m3u8
-#EXTINF:-1,nick - Rs 6
-http://175.107.244.52:4455/play/a03f/index.m3u8
-#EXTINF:-1,nick HD+
-http://175.107.244.52:4455/play/a00w/index.m3u8
+#EXTINF:-1,24Beat TV
+http://175.107.244.52:4457/play/a05o/index.m3u8
+#EXTINF:-1,ADsports 1
+http://175.107.244.52:4457/play/a062/index.m3u8
+#EXTINF:-1,ADsports 2
+http://175.107.244.52:4457/play/a063/index.m3u8
+#EXTINF:-1,AMC  (Ebravo)
+http://175.107.244.52:4457/play/a07j/index.m3u8
+#EXTINF:-1,AXN  (Ebravo)
+http://175.107.244.52:4457/play/a07g/index.m3u8
+#EXTINF:-1,AXN Spin  (Ebravo)
+http://175.107.244.52:4457/play/a07f/index.m3u8
+#EXTINF:-1,Al Jazeera English HD
+http://175.107.244.52:4457/play/a055/index.m3u8
+#EXTINF:-1,Al Majid QURAN
+http://175.107.244.52:4457/play/a06e/index.m3u8
+#EXTINF:-1,Arirang (Ebravo)
+http://175.107.244.52:4457/play/a078/index.m3u8
+#EXTINF:-1,Arrahman Arraheem (Ebravo)
+http://175.107.244.52:4457/play/a072/index.m3u8
+#EXTINF:-1,B4U MOVIES
+http://175.107.244.52:4457/play/a058/index.m3u8
+#EXTINF:-1,B4U MUSIC
+http://175.107.244.52:4457/play/a059/index.m3u8
+#EXTINF:-1,BBC Brit (Ebravo)
+http://175.107.244.52:4457/play/a07v/index.m3u8
+#EXTINF:-1,BBC Earth  (Ebravo)
+http://175.107.244.52:4457/play/a06u/index.m3u8
+#EXTINF:-1,BBC First (Ebravo)
+http://175.107.244.52:4457/play/a079/index.m3u8
+#EXTINF:-1,Baby TV (Ebravo)
+http://175.107.244.52:4457/play/a073/index.m3u8
+#EXTINF:-1,Bein Sports (Ebravo)
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1,Bein Sports 2 (Ebravo)
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1,Bein Sports 3 (Ebravo)
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1,Bein Sports 3 Arabic (Ebravo)
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1,Bloomberg (Ebravo)
+http://175.107.244.52:4457/play/a06q/index.m3u8
+#EXTINF:-1,CAPITAL NEWS (Ebravo)
+http://175.107.244.52:4457/play/a08f/index.m3u8
+#EXTINF:-1,CBS Europa (Ebravo)
+http://175.107.244.52:4457/play/a07d/index.m3u8
+#EXTINF:-1,Comedy Central Extra (Ebravo)
+http://175.107.244.52:4457/play/a07k/index.m3u8
+#EXTINF:-1,DTX
+http://175.107.244.52:4457/play/a07a/index.m3u8
+#EXTINF:-1,DW English HD
+http://175.107.244.52:4457/play/a053/index.m3u8
+#EXTINF:-1,Discovery Science (Ebravo)
+http://175.107.244.52:4457/play/a076/index.m3u8
+#EXTINF:-1,Duabi One (Ebravo) 
+http://175.107.244.52:4457/play/a07n/index.m3u8
+#EXTINF:-1,EMG CINEWORLD
+http://175.107.244.52:4457/play/a07w/index.m3u8
+#EXTINF:-1,EMG CITY 21
+http://175.107.244.52:4457/play/a080/index.m3u8
+#EXTINF:-1,EMG HUNGAMA
+http://175.107.244.52:4457/play/a07z/index.m3u8
+#EXTINF:-1,EMG ISLAMIC VISION
+http://175.107.244.52:4457/play/a08e/index.m3u8
+#EXTINF:-1,EMG RHYTHM
+http://175.107.244.52:4457/play/a07y/index.m3u8
+#EXTINF:-1,EMG SADABAHAR
+http://175.107.244.52:4457/play/a07i/index.m3u8
+#EXTINF:-1,EMG TAZA
+http://175.107.244.52:4457/play/a07x/index.m3u8
+#EXTINF:-1,Euro News  (Ebravo)
+http://175.107.244.52:4457/play/a06s/index.m3u8
+#EXTINF:-1,Euro Sports 1  (Ebravo)
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1,Euro Sports 2  (Ebravo)
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1,Extreme Sports (Ebravo)
+http://175.107.244.52:4457/play/a06t/index.m3u8
+#EXTINF:-1,Fox Comedy (Ebravo)
+http://175.107.244.52:4457/play/a07m/index.m3u8
+#EXTINF:-1,Fox HD (Ebravo)
+http://175.107.244.52:4457/play/a07l/index.m3u8
+#EXTINF:-1,Foxlife (Ebravo)
+http://175.107.244.52:4457/play/a075/index.m3u8
+#EXTINF:-1,France 24
+http://175.107.244.52:4457/play/a06r/index.m3u8
+#EXTINF:-1,GEM COMEDY
+http://175.107.244.52:4457/play/a08c/index.m3u8
+#EXTINF:-1,GEM DRAMA
+http://175.107.244.52:4457/play/a08a/index.m3u8
+#EXTINF:-1,GEM Mifa HD
+http://175.107.244.52:4457/play/a05n/index.m3u8
+#EXTINF:-1,GEM Mifa+
+http://175.107.244.52:4457/play/a05p/index.m3u8
+#EXTINF:-1,GEM Modern Economy
+http://175.107.244.52:4457/play/a05q/index.m3u8
+#EXTINF:-1,GEM NATURE
+http://175.107.244.52:4457/play/a08d/index.m3u8
+#EXTINF:-1,GEM Onyx
+http://175.107.244.52:4457/play/a05l/index.m3u8
+#EXTINF:-1,GEM River+
+http://175.107.244.52:4457/play/a05r/index.m3u8
+#EXTINF:-1,GEM Rubix+
+http://175.107.244.52:4457/play/a05m/index.m3u8
+#EXTINF:-1,GEM SERIES
+http://175.107.244.52:4457/play/a08b/index.m3u8
+#EXTINF:-1,GEM TV HD
+http://175.107.244.52:4457/play/a089/index.m3u8
+#EXTINF:-1,Golf Channel (Ebravo)
+http://175.107.244.52:4457/play/a071/index.m3u8
+#EXTINF:-1,HBO 2 (Ebravo)
+http://175.107.244.52:4457/play/a07q/index.m3u8
+#EXTINF:-1,HBO 3 (Ebravo)
+http://175.107.244.52:4457/play/a07r/index.m3u8
+#EXTINF:-1,HBO+ (Ebravo)
+http://175.107.244.52:4457/play/a07o/index.m3u8
+#EXTINF:-1,ID (Ebravo)
+http://175.107.244.52:4457/play/a077/index.m3u8
+#EXTINF:-1,KSA Sports 1 HD
+http://175.107.244.52:4457/play/a06a/index.m3u8
+#EXTINF:-1,KSA Sports 2 HD 
+http://175.107.244.52:4457/play/a06b/index.m3u8
+#EXTINF:-1,KSA Sports 3 HD  
+http://175.107.244.52:4457/play/a06c/index.m3u8
+#EXTINF:-1,KSA Sports 4 HD  
+http://175.107.244.52:4457/play/a06d/index.m3u8
+#EXTINF:-1,Karabala Tv
+http://175.107.244.52:4457/play/a067/index.m3u8
+#EXTINF:-1,MBC 1
+http://175.107.244.52:4457/play/a05u/index.m3u8
+#EXTINF:-1,MBC 2
+http://175.107.244.52:4457/play/a05v/index.m3u8
+#EXTINF:-1,MBC 3
+http://175.107.244.52:4457/play/a05y/index.m3u8
+#EXTINF:-1,MBC 4
+http://175.107.244.52:4457/play/a05w/index.m3u8
+#EXTINF:-1,MBC Action 
+http://175.107.244.52:4457/play/a05x/index.m3u8
+#EXTINF:-1,MBC Bollywood
+http://175.107.244.52:4457/play/a060/index.m3u8
+#EXTINF:-1,MBC Drama 
+http://175.107.244.52:4457/play/a05z/index.m3u8
+#EXTINF:-1,MBC Masr
+http://175.107.244.52:4457/play/a061/index.m3u8
+#EXTINF:-1,MBC Max  (Ebravo)
+http://175.107.244.52:4457/play/a07h/index.m3u8
+#EXTINF:-1,MTV Europe (Ebravo)
+http://175.107.244.52:4457/play/a07s/index.m3u8
+#EXTINF:-1,Minimax
+http://175.107.244.52:4457/play/a086/index.m3u8
+#EXTINF:-1,Mix Movies (Ebravo)
+http://175.107.244.52:4457/play/a07t/index.m3u8
+#EXTINF:-1,NAT GEO People (Ebravo)
+http://175.107.244.52:4457/play/a07c/index.m3u8
+#EXTINF:-1,NAT GEO Wild (Ebravo)
+http://175.107.244.52:4457/play/a07b/index.m3u8
+#EXTINF:-1,NHK World HD
+http://175.107.244.52:4457/play/a056/index.m3u8
+#EXTINF:-1,NOOR TV
+http://175.107.244.52:4457/play/a085/index.m3u8
+#EXTINF:-1,National Geographic Abu Dhabi
+http://175.107.244.52:4457/play/a064/index.m3u8
+#EXTINF:-1,Nick Music (Ebravo)
+http://175.107.244.52:4457/play/a07u/index.m3u8
+#EXTINF:-1,OSN Movies (Ebravo)
+http://175.107.244.52:4457/play/a07p/index.m3u8
+#EXTINF:-1,PTV SPORTS HD (Ebravo)
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1,QURAN TV
+http://175.107.244.52:4457/play/a087/index.m3u8
+#EXTINF:-1,Saudi QURAN
+http://175.107.244.52:4457/play/a068/index.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://175.107.244.52:4457/play/a069/index.m3u8
+#EXTINF:-1,Saudi TV
+http://175.107.244.52:4457/play/a088/index.m3u8
+#EXTINF:-1,SciFi HD (Ebravo)
+http://175.107.244.52:4457/play/a08h/index.m3u8
+#EXTINF:-1,Silver Screen
+http://175.107.244.52:4457/play/a05b/index.m3u8
+#EXTINF:-1,TRT World HD
+http://175.107.244.52:4457/play/a057/index.m3u8
+#EXTINF:-1,Travel Channel  (Ebravo)
+http://175.107.244.52:4457/play/a074/index.m3u8
+#EXTINF:-1,UK 44
+http://175.107.244.52:4457/play/a035/index.m3u8
+#EXTINF:-1,Virtual TV 2
+http://175.107.244.52:4457/play/a082/index.m3u8
+#EXTINF:-1,Virtual TV 3
+http://175.107.244.52:4457/play/a083/index.m3u8
+#EXTINF:-1,Virtual TV 4
+http://175.107.244.52:4457/play/a084/index.m3u8
+#EXTINF:-1,WB TV (Ebravo)
+http://175.107.244.52:4457/play/a07e/index.m3u8
