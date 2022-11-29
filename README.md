@@ -38,6 +38,7 @@
 
 # 📘 Note:
 🚨 Current Servers Aren't Stable<br>
+🚨 I Will Be Less Active For My Exam<br>
 🚨 Some Channel Has Several Audio Tracks
 
 # 💛 Contact Me:
