@@ -1,8 +1,13 @@
+<div align="center">
+  <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
+  <h1>⚠️ This project is no longer maintained ⚠️</h1>
+</div>
+
 <h1 align="center">
   <img alt="cgapp logo" src="https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png" width="224px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Airtel-IPTV/main/Airtel.m3u">Airtel IPTV </a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Airtel-IPTV/main/Airtel.m3u">Airtel</a> ⭐️
 </h1>
-<p align="center">Watch High Quality Airtel Streams With SabbirIPTV</p>
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/Airtel-IPTV/main/Airtel.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
@@ -37,7 +42,9 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 All Servers Are Now Updated 🔥<br>
+🚨 This project is no longer maintained
 
 # 💛 Contact Me:
-<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sab_bits)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/603268462940389401)
+[![email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sabbits@proton.me)
